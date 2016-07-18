@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\AndroidStudioProjects\workspace\projects\SuperWeChat\libs\Parse-1.9.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="56c22930b5d4f77015b6a40c7f14103d3e101001">
+        <dex dex="D:\AndroidStudioProjects\workspace\projects\SuperWeChat\build\intermediates\pre-dexed\debug\Parse-1.9.4_f2371107accd0158b9a4577be7c38144d368f06f.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\workspace\projects\SuperWeChat\libs\easemobchat_2.2.8.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8cc35694de3c1a6185566afa93ea73e23d356bd6">
+        <dex dex="D:\AndroidStudioProjects\workspace\projects\SuperWeChat\build\intermediates\pre-dexed\debug\easemobchat_2.2.8_b4ff0723c8afc393e849a6b48d686c0611a57baa.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\workspace\projects\SuperWeChat\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b6c138ba72ce38beda559df33d369856854fd6f5">
+        <dex dex="D:\AndroidStudioProjects\workspace\projects\SuperWeChat\build\intermediates\pre-dexed\debug\android-support-v4_29e01ac58e7a26e36eb49ef18d9878558b3dcd64.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\workspace\projects\SuperWeChat\libs\org.apache.http.legacy.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fa331331b626ee78c52bea16ce1e34b39e666ce5">
+        <dex dex="D:\AndroidStudioProjects\workspace\projects\SuperWeChat\build\intermediates\pre-dexed\debug\org.apache.http.legacy_02a7ee33f593395345ccebda52ad6cf9ca8a6a01.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\workspace\projects\SuperWeChat\libs\baidumapapi_v3_2_0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="46ca4c3c74e1ddc60b45c490485e5df05babe6a5">
+        <dex dex="D:\AndroidStudioProjects\workspace\projects\SuperWeChat\build\intermediates\pre-dexed\debug\baidumapapi_v3_2_0_1ae99e95cd6bfd1119bdd30553b396e001f4448f.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\workspace\projects\SuperWeChat\libs\bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="D:\AndroidStudioProjects\workspace\projects\SuperWeChat\build\intermediates\pre-dexed\debug\bolts-android-1.2.0_4686a5c82eaccf5c591e1210a1dee0553308e803.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\workspace\projects\SuperWeChat\libs\umeng-analytics-v5.2.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0f9eccf79ae6006e4346725b09114182dca0c023">
+        <dex dex="D:\AndroidStudioProjects\workspace\projects\SuperWeChat\build\intermediates\pre-dexed\debug\umeng-analytics-v5.2.4_603f91140b40c3639c1954b431c5dbfa123c5f0c.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\workspace\projects\SuperWeChat\libs\locSDK_3.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="590d32bdf5bb37ee372a21696b8f7853b224e31f">
+        <dex dex="D:\AndroidStudioProjects\workspace\projects\SuperWeChat\build\intermediates\pre-dexed\debug\locSDK_3.3_be8ca5b27618910545c7e5d4437beee940ee0491.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\workspace\projects\SuperWeChat\libs\picasso-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="D:\AndroidStudioProjects\workspace\projects\SuperWeChat\build\intermediates\pre-dexed\debug\picasso-2.4.0_cde55ffd1fa76233280637f7a723e1380ced3d00.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\workspace\projects\SuperWeChat\libs\MiPush_SDK_Client_2_2_19.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="01298c1280e97b7367a55252f66a8f19fd494d35">
+        <dex dex="D:\AndroidStudioProjects\workspace\projects\SuperWeChat\build\intermediates\pre-dexed\debug\MiPush_SDK_Client_2_2_19_474dd38d848578290ea2d2264551169270708ffa.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\workspace\projects\SuperWeChat\libs\google-play-services.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f0d8e4a84fad131bc291c3c4850afcaa8ba0b299">
+        <dex dex="D:\AndroidStudioProjects\workspace\projects\SuperWeChat\build\intermediates\pre-dexed\debug\google-play-services_ada0714de39dd053fdffc1272c7d4655b8c0259e.jar" />
+    </item>
+
+</items>
